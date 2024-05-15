@@ -1,3 +1,5 @@
+## 폐기
+
 import random
 import numpy as np
 
